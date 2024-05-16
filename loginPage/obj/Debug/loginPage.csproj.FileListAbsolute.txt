@@ -1,0 +1,17 @@
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\bin\Debug\loginPage.exe.config
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\bin\Debug\loginPage.exe
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\bin\Debug\loginPage.pdb
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\obj\Debug\loginPage.csproj.AssemblyReference.cache
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\obj\Debug\loginPage.Form1.resources
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\obj\Debug\loginPage.Properties.Resources.resources
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\obj\Debug\loginPage.csproj.GenerateResource.cache
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\obj\Debug\loginPage.csproj.CoreCompileInputs.cache
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\obj\Debug\loginPage.exe
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\obj\Debug\loginPage.pdb
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\obj\Debug\loginPage.Form2.resources
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\obj\Debug\loginPage.Form3.resources
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\obj\Debug\loginPage.Form4.resources
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\obj\Debug\loginPage.Form5.resources
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\obj\Debug\loginPage.Form6.resources
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\obj\Debug\loginPage.Form7.resources
+D:\TEC_Girl\first semester\C#\Practical\loginPage\loginPage\obj\Debug\loginPage.Form8.resources
